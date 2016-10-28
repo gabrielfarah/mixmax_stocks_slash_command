@@ -1,6 +1,9 @@
 # mixmax stock market slash command
 Insert graphs for the prices of stocks in the public stock market into emails. 
 
+![final visualization of plugin](https://raw.githubusercontent.com/gabrielfarah/mixmax_stocks_slash_command/master/assets/screen2.jpg)
+
+
 ## Requeriments
 * Flask==0.11.1
 * Flask-Cors==3.0.2
@@ -31,3 +34,10 @@ Mixmax Dashboard, click Settings -> Integrations -> Add Slash Command.
 ```
 /stocks <STOCK SYMBOL>
 ```
+#### The suggestions looks like this
+![final visualization of plugin](https://raw.githubusercontent.com/gabrielfarah/mixmax_stocks_slash_command/master/assets/screen1.jpg)
+
+#### Note: You could use the "," to compare multiple quotes
+
+![final visualization of plugin](https://raw.githubusercontent.com/gabrielfarah/mixmax_stocks_slash_command/master/assets/screen3.jpg)
+
